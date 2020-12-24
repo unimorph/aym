@@ -1,11 +1,11 @@
 # Aymara (aym)
 
 
-Contains paradigms for Aymara
+Contains paradigms for Aymara (nouns and verbs)
 
 ## Data
 
-Source:TBA
+Source: Coler, M. (2014). A grammar of Muylaq'Aymara: Aymara as spoken in Southern Peru. Brill.
 
 ## Annotators
 Matt Coler, Eleanor Chodroff
