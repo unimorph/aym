@@ -1,0 +1,83 @@
+Unimorph	Unimorph description	Aymara description in Coler 2014	Notes	
+N;NOM	noun, nominative	noun, nominative		
+N;PROPR	proprietive (having something)	noun, attributive	example: John's book: John.ATTR book.POSS3	
+N;NOM;PL	noun, nominative, plural	noun, nominative, plural		
+N;NOM;PSS1S	noun, nominative, possession by 1sg	noun, nominative, singular, possession by 1sg		
+N;NOM;PL;PSS1S	noun, nominative, plural, possession by 1sg	noun, nominative, plural, possession by 1sg		
+N;NOM;PSS2S	noun, nominative, possession by 2sg	noun, nominative, singular, possession by 2sg		
+N;NOM;PL;PSS2S	noun, nominative, plural, possession by 2sg	noun, nominative, plural, possession by 2sg		
+N;NOM;PSS3S	noun, nominative, possession by 3sg	noun, nominative, singular, possession by 3sg		
+N;NOM;PL;PSS3S	noun, nominative, plural, possession by 3sg	noun, nominative, plural, possession by 3sg		
+N;NOM;PSS1PL	noun, nominative, possession by first person inclusive	noun, nominative, singular, possession by first person inclusive		
+N;NOM;PL;PSS1PL	noun, nominative, plural, possession by first person inclusive	noun, nominative, plural, possession by first person inclusive		
+N;INTER	noun, interactive	noun, interactive		
+N;VERS	noun, versative	noun, perlative		
+N;PRP	noun, purposive (marks purpose for something)	noun, motive ("because of")		
+N;GEN	noun, genitive	noun, genitive/locative		
+N;EQTV	noun, equative	noun, comparative ("like a woman", not "than woman")		
+N;ABL	noun, ablative	noun, ablative		
+N;BEN	noun, benefacative	noun, benefacative		
+N;IN+ESS	noun, in (location) and essive (stationary)	noun, reciprocal/inclusor or location within	from Coler 2014: When affixed to a demonstrative root or any toponym,-(c)pacha indicates location in that specific place, as in (345) Alternative: just use unimorph IN for "in" (location)	p. 133: maybe no vowel deletion if preceding consonant is also a /p/
+N;TERM	noun, terminative ?	noun, limitative		
+N;COM	noun, comitative	noun, comitative		
+N;ALL	noun, allative	noun, allative		
+N;ACC	noun, accusative	noun, accusative		
+V;PRS/PST+IMMED;2SG;AC1	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;3SG;AC1	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;3SG;AC1+INCL	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;3SG;AC3	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;1SG;AC2	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;1SG;AC3	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;1+INCL;AC3	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;2SG;AC3	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;PRS/PST+IMMED;3SG;AC2	verb, past + immediate	verb, simple tense (present and immediate past)		
+V;CF;PRS/PST+IMMED;1SG;AC3	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;1SG;AC3	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;3SG;AC3	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;1SG;AC2	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;2SG;AC1	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;3SG;AC1	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;3SG;AC2	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;2SG;AC3	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;3SG;AC1+INCL	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PRS/PST+IMMED;1+INCL;AC3	verb, mood = counterfactual, present, CF = Leipzig, not necessarily Unimorph	verb, simple tense counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;1SG;AC3	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;1+INCL;AC3	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;2SG;AC3	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;3SG;AC3	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;1SG;AC2	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;2SG;AC1	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;3SG;AC1	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;3SG;AC1+INCL	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;3SG;AC2	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;CF;PST;2SG;AC3	verb, mood = counterfactual, past, CF = Leipzig, not necessarily Unimorph	verb, past counterfactual	counterfactual interpretation is context dependent, but always an unrealized event	
+V;IMP;2SG;AC1	verb, imperative	verb, imperative		
+V;IMP;3SG;AC1	verb, imperative	verb, imperative		
+V;IMP;2SG;AC3	verb, imperative	verb, imperative		
+V;IMP;3SG;AC2	verb, imperative	verb, imperative		
+V;IMP;3SG;AC2	verb, imperative	verb, imperative		
+V;IMP;3SG;AC3	verb, imperative	verb, imperative		
+V;PST+RMT;3SG;AC1	verb, past + remote	verb, distal past		
+V;PST+RMT;1SG;AC2	verb, past + remote	verb, distal past		
+V;PST+RMT;1SG;AC3	verb, past + remote	verb, distal past		
+V;PST+RMT;1+INCL;AC3	verb, past + remote	verb, distal past		
+V;PST+RMT;2SG;AC1	verb, past + remote	verb, distal past		
+V;PST+RMT;2SG;AC3	verb, past + remote	verb, distal past		
+V;PST+RMT;3SG;AC1+INCL	verb, past + remote	verb, distal past		
+V;PST+RMT;3SG;AC2	verb, past + remote	verb, distal past		
+V;PST+RMT;3SG;AC3	verb, past + remote	verb, distal past		
+V;PST+RCT;3SG;AC1	verb, past + recent	verb, proximal past		
+V;PST+RCT;3SG;AC3	verb, past + recent	verb, proximal past		
+V;PST+RCT;3SG;AC2	verb, past + recent	verb, proximal past		
+V;PST+RCT;1SG;AC3	verb, past + recent	verb, proximal past		
+V;PST+RCT;2SG;AC3	verb, past + recent	verb, proximal past		
+V;FUT;2SG;AC1	verb, future	verb, future		
+V;FUT;3SG;AC1	verb, future	verb, future		
+V;FUT;1SG;AC2	verb, future	verb, future		
+V;FUT;1SG;AC3	verb, future	verb, future		
+V;FUT;1+INCL;AC3	verb, future	verb, future		
+V;FUT;2SG;AC3	verb, future	verb, future		
+V;FUT;3SG;AC2	verb, future	verb, future		
+V;FUT;3SG;AC3	verb, future	verb, future		
+V;FUT;3SG;AC1+INCL	verb, future	verb, future		
+V.MSDR	masdar	action nominal		
