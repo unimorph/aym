@@ -30,6 +30,10 @@ Nominal Paradigm:
 | achachi           | achachixanak       | N;ACC;PL;PSS1S                  |
 | achachi           | achachimanak       | N;ACC;PL;PSS2S                  |
 | achachi           | achachipanak       | N;ACC;PL;PSS3S                  |
+| achachi           | achachis           | N;ACC;PSS1PL                    |
+| achachi           | achachix           | N;ACC;PSS1S                     |
+| achachi           | achachim           | N;ACC;PSS2S                     |
+| achachi           | achachip           | N;ACC;PSS3S                     |
 | achachi           | achachiru          | N;ALL                           |
 | achachi           | achachinakaru      | N;ALL;PL                        |
 | achachi           | achachisanakaru    | N;ALL;PL;PSS1PL                 |
@@ -37,13 +41,9 @@ Nominal Paradigm:
 | achachi           | achachimanakaru    | N;ALL;PL;PSS2S                  |
 | achachi           | achachipanakaru    | N;ALL;PL;PSS3S                  |
 | achachi           | achachisaru        | N;ALL;PSS1PL                    |
-| achachi           | achachis           | N;ALL;PSS1PL_1                  |
 | achachi           | achachixaru        | N;ALL;PSS1S                     |
-| achachi           | achachix           | N;ALL;PSS1S_1                   |
 | achachi           | achachimaru        | N;ALL;PSS2S                     |
-| achachi           | achachim           | N;ALL;PSS2S_1                   |
 | achachi           | achachiparu        | N;ALL;PSS3S                     |
-| achachi           | achachip           | N;ALL;PSS3S_1                   |
 | achachi           | achachitaki        | N;BEN                           |
 | achachi           | achachinakataki    | N;BEN;PL                        |
 | achachi           | achachisanakataki  | N;BEN;PL;PSS1PL                 |
